@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok Latest Video Audit"
+  short_description: "Audit latest TikTok video metrics."
+  default_prompt: "Audit a TikTok account by account name, handle, or URL and return the latest public video metrics."
